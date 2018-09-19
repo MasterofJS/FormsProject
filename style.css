@@ -129,5 +129,10 @@ body {
     font-weight: bold;
     padding: 5px 20px;
   }
-  /* UPFORM STYLE ENDS*/
   
+  .sub-question{
+    display: none;
+  }
+  .sub-question input{
+    font-size: 25px;
+  }
